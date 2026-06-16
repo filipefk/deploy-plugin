@@ -1,6 +1,6 @@
 ---
 name: weather
-description: Busca a previsão do tempo com base em uma localização fornecida em linguagem natural. A localização pode ser uma cidade, um código postal ou coordenadas geográficas.
+description: Busca a previsão do tempo com base em uma localização. Se a localização não for fornecida, busca o IP externo e busca a localização deste IP.
 ---
 
 # Weather
