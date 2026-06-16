@@ -1,0 +1,8 @@
+{
+  "name": "refere-plugin",
+  "description": "Plugin para uso da equipe de desenvolvimento da Refere",
+  "version": "1.0.0",
+  "author": {
+    "name": "Filipe Kanitz"
+  }
+}
