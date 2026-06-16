@@ -1,0 +1,17 @@
+{
+  "name": "refere-tools",
+  "owner": {
+    "name": "Refere Tecnologia",
+    "email": ""
+  },
+  "plugins": [
+    {
+      "name": "refere-plugin",
+      "source": {
+        "source": "github",
+        "repo": "filipefk/deploy-plugin"
+      },
+      "description": "Ferramentas de desenvolvimento do time da Refere"
+    }
+  ]
+}
