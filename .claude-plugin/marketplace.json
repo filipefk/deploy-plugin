@@ -7,10 +7,7 @@
   "plugins": [
     {
       "name": "refere-plugin",
-      "source": {
-        "source": "github",
-        "repo": "filipefk/deploy-plugin"
-      },
+      "source": "./",
       "description": "Ferramentas de desenvolvimento do time da Refere"
     }
   ]
